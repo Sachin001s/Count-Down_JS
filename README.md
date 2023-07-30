@@ -25,6 +25,9 @@ The project consists of the following files:
 - custom.css: The custom.css file contains the custom styling for the countdown timer. It is used to enhance the visual appearance of the web page and ensure a user-friendly experience.
 
 - app.js: The app.js file contains the JavaScript code responsible for handling the countdown functionality. It calculates the time remaining, updates the display, and triggers any relevant actions when the countdown reaches zero.
+
+![Screenshot 2023-07-30 213241](https://github.com/Sachin001s/Count-Down_JS/assets/128379424/a2866bcb-2fdd-4d96-a1c4-e9dc66f7ef8a)
+
 ## Usage
 - View the countdown:
 The application will display the remaining time in days, hours, minutes, and seconds until the specified date and time.
